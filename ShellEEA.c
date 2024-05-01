@@ -1,8 +1,5 @@
 /* Sistem Programlama Proje-1*/
-/* Group EEA*/
 /*Azra Öykü Ulukan 22120205059*/
-/*Eren Akkoç 22120205045*/
-/*Rabia Ece Sert 22120205057*/
 
 
 #include <stdio.h>
