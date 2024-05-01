@@ -1,0 +1,33 @@
+1711914335: pwd
+1711914337: ls
+1711914338: cd
+1711914347: az
+1711914350: azra
+1711914360: eren
+1711915580: pwd
+1711915584: ls
+1711915586: cd
+1711915588: azra
+1711915637: bash runtest.sh 1
+bash: runtest.sh: No such file or directory
+1711915649: bash runtest.sh 2
+bash: runtest.sh: No such file or directory
+1711915651: azra
+1711915795: pwd
+1711915798: ls
+1711915800: which ls
+1711915826: which
+1711915839: pwd
+1711915841: ls
+1711915843: cd
+1711915845: ls
+1711915852: cd tests
+1711915853: ls
+ls: cannot access '': No such file or directory
+1711915856: 
+1711915861: azra
+1711915907: bash runtest.sh1
+bash: runtest.sh1: No such file or directory
+1711915957: bash runtest.sh
+1711917919: pwd
+1711918913: 
